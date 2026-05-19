@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"funsao",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"funsao",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
