@@ -4,9 +4,8 @@ var esq= keyboard_check(ord("A")) || keyboard_check(vk_left);
 var cm = keyboard_check(ord("W")) || keyboard_check(vk_up);
 var bx = keyboard_check(ord("S")) || keyboard_check(vk_down);
 
-var ld = dir + esq
-var al = cm  + bx
-
+var la = dir + cm
+var al = esq  + bx
 
 sp_x =(dir - esq)*sp
 sp_y =( bx - cm )*sp
@@ -31,3 +30,4 @@ if (dir) {
 matar(serra_seg_obj)
 matar(serra_obj)
 #endregion
+solido(pr_obj)

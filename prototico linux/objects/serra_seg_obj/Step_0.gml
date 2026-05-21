@@ -1,1 +1,1 @@
-seguir(0.05,0.05,ply_obj)
+//seguir(0.05,0.05,ply_obj)

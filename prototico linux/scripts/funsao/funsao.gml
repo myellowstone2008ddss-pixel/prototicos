@@ -10,3 +10,12 @@ if (place_meeting(x, y, ob)) {
 }
 
 } 
+function solido(ob){
+
+if (!place_meeting(x + sp_x, y, ob)) {
+    sp_x = 0; 
+} else {
+   
+ x += sp_x
+
+}}

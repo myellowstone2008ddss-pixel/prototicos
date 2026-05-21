@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"TileSet1",
-  "out_columns":4,
+  "out_columns":16,
   "out_tilehborder":0,
   "out_tilevborder":0,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"grama",
-    "path":"sprites/grama/grama.yy",
+    "name":"tile_spr",
+    "path":"sprites/tile_spr/tile_spr.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":16,
+  "tile_count":256,
 }
