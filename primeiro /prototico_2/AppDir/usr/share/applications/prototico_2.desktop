@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=prototico 2
+Path=/usr/bin/
+Exec=prototico_2
+Icon=prototico_2
+Terminal=false
+Categories=Game;

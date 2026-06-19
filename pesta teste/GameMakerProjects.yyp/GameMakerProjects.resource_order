@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Cenas","order":2,"path":"folders/Cenas.yy",},
+    {"name":"cp","order":3,"path":"folders/cp.yy",},
+    {"name":"Objetos","order":1,"path":"folders/Objetos.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"camera","order":6,"path":"objects/camera/camera.yy",},
+    {"name":"obj2","order":1,"path":"objects/obj2/obj2.yy",},
+    {"name":"Obj3","order":4,"path":"objects/Obj3/Obj3.yy",},
+    {"name":"Obj4","order":2,"path":"objects/Obj4/Obj4.yy",},
+    {"name":"serra","order":5,"path":"objects/serra/serra.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"scr1","order":5,"path":"sprites/scr1/scr1.yy",},
+    {"name":"Scr2","order":1,"path":"sprites/Scr2/Scr2.yy",},
+    {"name":"scr3","order":2,"path":"sprites/scr3/scr3.yy",},
+    {"name":"Sprite1","order":6,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite6","order":3,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":4,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
+  ],
+}

@@ -1,0 +1,5 @@
+if keyboard_check(+tecla)=a se mover
+y-=para cima
+y+=para baixo
+x-=para esquerda
+x+=para direita
