@@ -4,12 +4,16 @@ var esq= keyboard_check(ord("A")) || keyboard_check(vk_left);
 var cm = keyboard_check(ord("W")) || keyboard_check(vk_up);
 var bx = keyboard_check(ord("S")) || keyboard_check(vk_down);
 
-var la = dir + cm
-var al = esq  + bx
 
 sp_x =(dir - esq)*sp
 sp_y =( bx - cm )*sp
 
+if (place_meeting(x + sp_x, y, pr_obj)) {
+  sp_x = 0;
+}
+if(place_meeting(x,y+sp_y,pr_obj)){
+	sp_y = 0;
+}
 x+=sp_x
 y+=sp_y
 #endregion
@@ -26,8 +30,8 @@ if (dir) {
 	image_xscale = 1
 }
 #endregion
-#region inimigos
+ #region inimigos
 matar(serra_seg_obj)
 matar(serra_obj)
 #endregion
-solido(pr_obj)
+

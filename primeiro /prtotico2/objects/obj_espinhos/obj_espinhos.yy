@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"camera",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_espinhos",
+  "eventList":[],
   "managed":true,
-  "name":"camera",
+  "name":"obj_espinhos",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite6",
+    "path":"sprites/Sprite6/Sprite6.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

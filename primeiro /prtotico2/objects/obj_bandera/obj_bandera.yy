@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"serra",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_bandera",
+  "eventList":[],
   "managed":true,
-  "name":"serra",
+  "name":"obj_bandera",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite8",
-    "path":"sprites/Sprite8/Sprite8.yy",
+    "name":"Sprite7",
+    "path":"sprites/Sprite7/Sprite7.yy",
   },
   "spriteMaskId":null,
   "visible":true,
