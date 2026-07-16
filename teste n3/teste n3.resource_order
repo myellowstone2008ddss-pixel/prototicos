@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[
+    {"name":"obijetos","order":1,"path":"folders/obijetos.yy",},
+    {"name":"scripts","order":3,"path":"folders/scripts.yy",},
+    {"name":"sprtes","order":2,"path":"folders/sprtes.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
+  ],
+}
