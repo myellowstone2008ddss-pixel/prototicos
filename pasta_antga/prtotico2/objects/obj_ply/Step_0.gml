@@ -3,17 +3,18 @@ var esq =  keyboard_check(ord("A")) ||keyboard_check(vk_right)
 var dir   =  keyboard_check(ord("D")) ||keyboard_check(vk_left)
 sp_x = (dir - esq)*spd 
 sp_y = grvt
-if place_meeting(x, y+sp_y, obj_terra){ sp_y = 0 if keyboard_check(vk_space) { 
-	for(i=0;100>i;i++) {
-	sp_y += -0.1
-	} } }
+
 
 if (place_meeting(x + sp_x, y,obj_terra )) {
   sp_x = 0;
 }
 if(place_meeting(x,y+sp_y,obj_terra)){
 	sp_y = 0;
+
 }
+
+if place_meeting(x, y+sp_y, obj_terra){ sp_y = 0 ; if keyboard_check(vk_space) {sp_y = lerp(sp_y,  10, 0.2)  }}
+
 
 x += sp_x
 y += sp_y

@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_serra",
+  "eventList":[],
   "managed":true,
-  "name":"Object2",
+  "name":"obj_serra",
   "overriddenProperties":[],
   "parent":{
     "name":"obijetos",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_parede",
-    "path":"sprites/spr_parede/spr_parede.yy",
+    "name":"spr_serra",
+    "path":"sprites/spr_serra/spr_serra.yy",
   },
   "spriteMaskId":null,
   "visible":true,

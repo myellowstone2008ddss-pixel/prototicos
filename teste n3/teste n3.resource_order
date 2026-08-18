@@ -1,11 +1,14 @@
 {
   "FolderOrderSettings":[
+    {"name":"niveis","order":4,"path":"folders/niveis.yy",},
     {"name":"obijetos","order":1,"path":"folders/obijetos.yy",},
     {"name":"scripts","order":3,"path":"folders/scripts.yy",},
     {"name":"sprtes","order":2,"path":"folders/sprtes.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"obj_serra","order":2,"path":"objects/obj_serra/obj_serra.yy",},
     {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"spr_serra","order":2,"path":"sprites/spr_serra/spr_serra.yy",},
   ],
 }
